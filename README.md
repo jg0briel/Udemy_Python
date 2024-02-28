@@ -1,0 +1,1 @@
+Arquivo criado com a finalidade de lançar atividades que eu fizer do curso de pytohn da Udemy, de forma em que quem ver veja meu progresso e caso eu veja a ter alguma duvida o arquivo estar de forma mais acessícel para revisão
